@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\Task 41.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\Task 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\Task 41.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\Task 41.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\Task 41.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\bin\HPD\Debug\net6.0\Task 41.exe
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\bin\HPD\Debug\net6.0\Task 41.deps.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\bin\HPD\Debug\net6.0\Task 41.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\bin\HPD\Debug\net6.0\Task 41.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\bin\HPD\Debug\net6.0\Task 41.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\Task 41.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\refint\Task 41.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\Task 41.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\Task 41.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 6\Sem6\Основное\Домашнее задание\Task 41\obj\HPD\Debug\net6.0\ref\Task 41.dll
